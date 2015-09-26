@@ -1,0 +1,5 @@
+180,Full-cast rehearsal with Judy,Full-cast,Stefan,Karin,Amy,Danny,Yang,Akash,Wenxin,Ram,Deby,Darya,Sol,Kelly,Wei,Kristy,Judy
+60,Director meeting,Director meeting,Judy,Ram,Darya,Stefan
+120,First table work session with Judy and directors,Table work 1,Judy,Ram,Darya,Stefan,Amy,Danny,Yang
+120,Second table work session with Judy and directors,Table work 2,Judy,Ram,Darya,Stefan,Amy,Danny,Yang
+60,Man in Chair rehearsal with Ram,Man in Chair,Stefan,Ram

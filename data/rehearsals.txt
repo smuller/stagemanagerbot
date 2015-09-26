@@ -1,0 +1,5 @@
+Mon Sep 28 20:00:00 2015,Mon Sep 28 21:00:00 2015,60,Director meeting,Director meeting,Judy,Ram,Darya,Stefan
+Mon Sep 28 19:00:00 2015,Mon Sep 28 20:00:00 2015,60,Man in Chair rehearsal with Ram,Man in Chair,Stefan,Ram
+Wed Sep 30 20:00:00 2015,Wed Sep 30 22:00:00 2015,120,First table work session with Judy and directors,Table work 1,Judy,Ram,Darya,Stefan,Amy,Danny,Yang
+Thu Oct 01 19:00:00 2015,Thu Oct 01 21:00:00 2015,120,Second table work session with Judy and directors,Table work 2,Judy,Ram,Darya,Stefan,Amy,Danny,Yang
+
